@@ -26,4 +26,4 @@ Media reporting can be vague and hard for the public to collate. Relying on soci
 
 [Link to view in full-screen](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
  
-[![View and interact with the report in full-screen](https://github.com/Mike-Honey/covid-19-vic-au/raw/master/Coronavirus%20COVID-19%20-%20VIC%20AU%20Exposure%20sites.pn)](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+[![View and interact with the report in full-screen](https://github.com/Mike-Honey/covid-19-vic-au/raw/master/Coronavirus%20COVID-19%20-%20VIC%20AU%20Exposure%20sites.png)](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)

@@ -15,9 +15,13 @@ Data was gathered from:
 
 [VIC Health Department Media hub - coronavirus disease (COVID-19)](https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19)
 
+[Department of Health (Federal Government) AHPPC (Australian Health Protection Principal Committee)](https://www.health.gov.au/committees-and-groups/australian-health-protection-principal-committee-ahppc)
+
 [abc.net.au](http://abc.net.au/)
 
 [theage.com.au](http://theage.com.au/)
+
+[abs.gov.au](https://www.abs.gov.au/ausstats/abs@.nsf/Lookup/by%20Subject/1270.0.55.003~June%202020~Main%20Features~Local%20Government%20Areas%20(LGAs)~3) - LGA shapes
 
 
 I encourage Power BI authors around the world to clone this project and start reporting similar info in their locations. Data recording is in a simple Excel table. Please register for Mapbox and replace the API key.

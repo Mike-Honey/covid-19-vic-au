@@ -9,7 +9,7 @@ Exposure sites from the last 20 days are shown by default - use the date slicers
 
 The map visual gives a quick overview, as many of the specific locations will be unfamiliar to residents and are scattered among various media releases and news stories.  Hover over a map point for more info, or select a map point or multiple points to filter the other visuals.  
 
-The shaded areas on the map are the Local Government Areas identified by the Australian Health Protection Principal Committee (AHPPC) in their 21 June 2020 announcement as "outbreaks of concern".
+The shaded areas on the map are the Postal Areas currently restricted to Stay at Home Directions.
 
 The timeline and table visuals show more details, including the expected date for "Onset of symptoms up to".  This is derived using the commonly used 14-day window.  
 
@@ -17,13 +17,11 @@ Data was gathered from:
 
 [VIC Health Department Media hub - coronavirus disease (COVID-19)](https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19)
 
-[Department of Health (Federal Government) AHPPC (Australian Health Protection Principal Committee)](https://www.health.gov.au/committees-and-groups/australian-health-protection-principal-committee-ahppc)
-
 [abc.net.au](http://abc.net.au/)
 
 [theage.com.au](http://theage.com.au/)
 
-[abs.gov.au](https://www.abs.gov.au/ausstats/abs@.nsf/Lookup/by%20Subject/1270.0.55.003~June%202020~Main%20Features~Local%20Government%20Areas%20(LGAs)~3) - LGA shapes
+[abs.gov.au](https://www.abs.gov.au/ausstats/abs@.nsf/Lookup/by%20Subject/1270.0.55.003~June%202020~Main%20Features~Local%20Government%20Areas%20(LGAs)~3) - LGA and Postal Area shapes
 
 
 I encourage Power BI authors around the world to clone this project and start reporting similar info in their locations. Data recording is in a simple Excel table. Please register for Mapbox and replace the API key.

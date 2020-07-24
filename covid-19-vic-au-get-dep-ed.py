@@ -28,7 +28,7 @@ def processWebPage(webpageURL, datadir):
 
     for t in text:
         if t.parent.name not in blacklist and str.strip(t) > '':
-            if t.parent.name == 'li':
+            if t.parent.name in { 'li' , 'p' }:
                 output_text += '\nli: {}\n'.format(str.strip(t))
             else:
                 output_text += '{}'.format(str.strip(t))

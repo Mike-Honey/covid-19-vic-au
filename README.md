@@ -3,6 +3,8 @@ Coronavirus COVID-19 - Victoria Australia
 
 Lists recent Coronavirus COVID-19 exposure sites in the state of Victoria, Australia.
 
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+
 THIS REPORT IS NOT HEALTH ADVICE - REFER TO YOUR LOCAL HEALTH AUTHORITY.
 
 Exposure sites from the last 20 days are shown by default - use the date slicers to control the date range. 
@@ -28,6 +30,6 @@ I encourage Power BI authors around the world to clone this project and start re
 
 Media reporting can be vague and hard for the public to collate. Relying on social media can be misleading. Power BI can help.
 
-[Link to view in full-screen](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
  
 [![View and interact with the report in full-screen](https://github.com/Mike-Honey/covid-19-vic-au/raw/master/Coronavirus%20COVID-19%20-%20VIC%20AU%20Exposure%20sites.png)](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)

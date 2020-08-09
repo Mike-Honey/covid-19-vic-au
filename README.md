@@ -11,7 +11,7 @@ Exposure sites from the last 20 days are shown by default - use the date slicers
 
 The map visual gives a quick overview, as many of the specific locations will be unfamiliar to residents and are scattered among various media releases and news stories.  Hover over a map point for more info, or select a map point or multiple points to filter the other visuals.  
 
-The shaded areas on the map are the Local Government Areas (LGAs) currently under Stage 3 "Stay at Home" restrictions.
+The shaded areas on the map are the Local Government Areas (LGAs) currently under Stage 4 "Stay at Home + curfew" restrictions.
 
 The timeline and table visuals show more details, including the expected date for "Onset of symptoms up to".  This is derived using the commonly used 14-day window.  
 

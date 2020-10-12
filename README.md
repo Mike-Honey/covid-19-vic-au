@@ -3,9 +3,11 @@ Coronavirus COVID-19 - Victoria Australia
 
 Lists recent Coronavirus COVID-19 exposure sites and mystery cases in the state of Victoria, Australia.
 
-[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+[Link to interactive DataViz - Exposure sites page](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 [![View and interact with the report in full-screen](https://github.com/Mike-Honey/covid-19-vic-au/raw/master/Coronavirus%20COVID-19%20-%20VIC%20AU%20Exposure%20sites.png)](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+
+[Link to interactive DataViz - Mystery cases page](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3499d3eb538a799d070a)
 
 [![View the page on Mystery cases](https://github.com/Mike-Honey/covid-19-vic-au/raw/master/Coronavirus%20COVID-19%20-%20VIC%20AU%20Mystery%20cases.png)](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3499d3eb538a799d070a)
 

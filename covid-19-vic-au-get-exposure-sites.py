@@ -1,4 +1,5 @@
 import datetime
+import numpy
 import os
 import pandas
 import requests
@@ -8,8 +9,10 @@ def processWebPage(webpageURL, datadir, filename):
 
     html_page_df = pandas.read_html(webpageURL)
     html_table0_df = html_page_df[0]
-    print ( html_table0_df )
-    html_table0_cols = html_table0_df.select_dtypes(include=[np.object]).columns
+    # print ( html_table0_df )
+
+    # strip unicode characters
+    html_table0_cols = html_table0_df.select_dtypes(include=[numpy.object]).columns
     html_table0_df[html_table0_cols] = html_table0_df[html_table0_cols].apply(lambda x: x.str.normalize('NFKD').str.encode('ascii', errors='ignore').str.decode('utf-8'))
 
     input_xlsx_df = pandas.read_excel(datadir + filename)

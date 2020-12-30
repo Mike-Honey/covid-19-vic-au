@@ -47,4 +47,4 @@ Data was gathered from:
 I encourage Power BI authors to clone this project and start reporting similar info in their locations. Data recording is in a simple Excel table. Please register for Mapbox and replace the API key.
 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
-Note page navigation controls at top-right.
+Note page navigation controls at top-left.

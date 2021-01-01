@@ -43,10 +43,18 @@ def main():
     print (str(datetime.datetime.now()) + ' Starting ...')
     webpageURL = 'https://www.dhhs.vic.gov.au/case-locations-and-outbreaks'
     datadir = 'C:/Dev/covid-19-vic-au/'
-    filename = 'case-locations-and-outbreaks_case-alerts--public-exposure-sites.xlsx'
-    table_instance = 0
     check_diff = True
 
+    filename = 'case-locations-and-outbreaks_case-alerts--public-exposure-sites_0.xlsx'
+    table_instance = 0
+    processWebPage(webpageURL, datadir, filename, table_instance, check_diff)
+
+    filename = 'case-locations-and-outbreaks_case-alerts--public-exposure-sites_1.xlsx'
+    table_instance = 1
+    processWebPage(webpageURL, datadir, filename, table_instance, check_diff)
+
+    filename = 'case-locations-and-outbreaks_case-alerts--public-exposure-sites_2.xlsx'
+    table_instance = 2
     processWebPage(webpageURL, datadir, filename, table_instance, check_diff)
 
     print (str(datetime.datetime.now()) + ' Finished!')

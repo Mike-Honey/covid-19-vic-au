@@ -5,7 +5,7 @@ Lists recent Coronavirus COVID-19 exposure sites and mystery cases in the state 
 
 [Link to interactive DataViz - Exposure sites page](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
-[![View and interact with the report in mobile/portrait mode](https://github.com/Mike-Honey/covid-19-vic-au/raw/master/Coronavirus%20COVID-19%20-%20VIC%20AU%20Exposure%20sites%20-%20Mobile.png)](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectiondd9c85c99e10265ab2e9)
+[![View and interact with the report in mobile/portrait mode](https://github.com/Mike-Honey/covid-19-vic-au/raw/master/Coronavirus%20COVID-19%20-%20VIC%20AU%20Exposure%20sites%20-%20Mobile.png)](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 [Link to interactive DataViz - Exposure sites page (landscape)](https://app.powerbi.com/view?r=eyJrIjoiNWIyOGZhYTUtNzRlNS00M2EzLTgxMDUtMzYzNDQ2ZjhkMGViIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectiondd9c85c99e10265ab2e9)
 
